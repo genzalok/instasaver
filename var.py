@@ -4,7 +4,7 @@ from typing import List
 
 API_ID = os.getenv("API_ID", "29236719")
 API_HASH = os.getenv("API_HASH", "1ccf1bd0a86af974e3210a55f662c062")
-BOT_TOKEN = os.getenv("BOT_TOKEN", "-1002289220626")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "7604228341:AAHuywd6aBuN9Q6Qu91BExzWG-BXbq7_SSc")
 ADMIN = int(os.getenv("ADMIN", "1296545302"))
 
 CHNL_LINK = os.getenv("CHNL_LINK", "https://t.me/filmyrip_official")
